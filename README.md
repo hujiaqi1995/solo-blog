@@ -10,7 +10,7 @@ hujiaqi1995 的个人博客
 
 ### 最新
 
-* [世界，你好！](https://jqhu.top/hello-solo)
+* [世界，你好！](https://blog.jqhu.top/hello-solo)
 
 
 
