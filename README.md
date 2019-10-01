@@ -10,7 +10,7 @@ hujiaqi1995 的个人博客
 
 ### 最新
 
-* [世界，你好！](https://blog.jqhu.top/hello-solo)
+* [缓存方案对比](https://blog.jqhu.top/articles/2019/09/30/1569844458728.html)
 
 
 
